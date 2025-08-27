@@ -1,0 +1,21 @@
+2-Hour Challenge — Chat with Your Data
+
+Build a simple chat app where a user uploads a CSV or Excel file and can ask natural-language questions (e.g. “total sales by store”, “correlation matrix”, “which stock had the highest return in 2024?”).
+
+Requirements
+	•	Upload CSV/XLSX (supporting one is enough)
+	•	Accept questions in plain text
+	•	Return results to the user (table, number, or chart)
+	•	Time between receipt of this repo and your final commit must be ≤ 2 hours
+
+What We’re Looking For
+We want to see:
+	•	Problem-solving skills
+	•	Clever solutions
+	•	Working code
+
+We’re not looking for perfection—this is about aptitude.
+
+How to Submit
+	•	Push your solution to your own personal repo (public or private).
+	•	Send us the link when you’re done.
